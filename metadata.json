@@ -1,0 +1,31 @@
+{
+  "title": "When AI Becomes Evidence",
+  "subtitle": "A Comparative Audit of Machine-Signal Disclosure in University Academic Integrity Procedures",
+  "project": "FFRI-NM Project 01",
+  "series": "FFRI-NM Research Note",
+  "series_number": "01",
+  "version": "1.0",
+  "publication_date": "2026-09-21",
+  "institutional_author": "Foundation for Relational Inquiry (FFRI-NM)",
+  "language": "en",
+  "resource_type": "research note",
+  "companion_dataset": "Corpus v2.4 / Codebook v0.4",
+  "keywords": [
+    "AI governance",
+    "academic integrity",
+    "AI detection",
+    "evidentiary access",
+    "contestability",
+    "procedural transparency",
+    "institutional policy"
+  ],
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "license_scope": "Original FFRI-NM text, dataset and codebook in this release",
+  "license_exclusions": [
+    "Third-party source materials",
+    "FFRI-NM name and logo / institutional marks"
+  ],
+  "identifier": null,
+  "notes": "Descriptive comparative audit of public institutional procedures. Not a prevalence estimate, legal-compliance audit, fairness ranking, or detector-accuracy study."
+}

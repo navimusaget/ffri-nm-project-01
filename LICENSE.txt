@@ -1,0 +1,15 @@
+FFRI-NM PROJECT 01 — LICENSE NOTICE
+
+© 2026 Foundation for Relational Inquiry (FFRI-NM).
+
+The original FFRI-NM text, dataset and codebook contained in this release are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+License: https://creativecommons.org/licenses/by/4.0/
+Legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+
+This license does not apply to third-party source materials cited, linked, quoted, or described in the research note or companion dataset. Those materials remain subject to their respective rights and terms.
+
+The FFRI-NM name, logo, and other institutional marks are excluded from the CC BY 4.0 license and may not be used in a way that implies endorsement, sponsorship, or institutional affiliation.
+
+Attribution suggestion:
+Foundation for Relational Inquiry (FFRI-NM). (2026). When AI Becomes Evidence: A Comparative Audit of Machine-Signal Disclosure in University Academic Integrity Procedures (Research Note 01, Project 01, version 1.0).
